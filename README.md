@@ -69,10 +69,9 @@
 
 Feel free to connect!  
 <!-- Add your social links below (LinkedIn, Twitter, Website, etc.) -->
-- [LinkedIn]()
-- [Twitter]()
-- [Website]()
+- [LinkedIn](linkedin.com/in/akash-keni-ab8680258)
+
 
 ---
 
-*Thanks for visiting! 🚀*
+
