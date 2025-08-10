@@ -5,6 +5,7 @@
 - 🧑‍🎓 **Student** passionate about technology, development, and continuous learning.
 - 💻 Skilled in **MERN stack**, **Python**, **Flask**, **FastAPI**, and **Machine Learning**.
 - 🛠️ Always exploring new frameworks, databases, and tools.
+- - 📬 Reach me at: keniakash07@gmail.com
 
 ---
 
